@@ -49,6 +49,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   logo                   : "assets/N.png"
+  og_image               : "assets/N.png"
 
 # SEO Related
 google_site_verification :
