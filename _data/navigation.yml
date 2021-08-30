@@ -12,5 +12,8 @@ main:
   - title: "Fossils"
     url: /fossils/
     
+  - title: "Dope Quotes"
+    url: /dope-quotes
+    
   - title: "Guide"
     url: /markdown/
