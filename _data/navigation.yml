@@ -2,24 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
- # - title: "Talks"
-  #  url: /talks/    
-
- # - title: "Teaching"
-  #  url: /teaching/    
     
- # - title: "Portfolio"
-  #  url: /portfolio/
-  
-  - title: "Fossils"
-      url: /fossils/
+  - title: "CV"
+    url: /cv/
         
   - title: "Blog / Cogitation"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Fossils"
+    url: /fossils/
     
   - title: "Guide"
     url: /markdown/
