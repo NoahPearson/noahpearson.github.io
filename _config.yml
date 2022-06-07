@@ -88,9 +88,9 @@ author:
   location         : "Bozeman, MT / Dallas, TX"
   employer         : "Montana State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "noah.pearson1 [at] student [dot] montana [dot] edu"
   researchgate     : "https://www.researchgate.net/profile/Noah-Pearson-3" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=58z3zdYAAAAJ&hl=en"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,14 +104,15 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/noah-pearson-53746a210/"
+  linkedin         : "noah-pearson-53746a210/"
   orcid            : "https://orcid.org/0000-0003-4965-5633"
+  deviantart       : "https://www.deviantart.com/noahpearson"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/n_pearson99"
+  twitter          : "n_pearson99"
   vine             :
   weibo            :
   xing             :
@@ -177,7 +178,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  fossils:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -211,10 +212,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _fossils
   - scope:
       path: ""
-      type: teaching
+      type: fossils
     values:
       layout: single
       author_profile: true
